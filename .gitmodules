@@ -26,5 +26,5 @@
 	branch = master
 [submodule "riscv-binutils"]
 	path = riscv-binutils
-	url = https://github.com/kaistseed/riscv-binutils.git
+	url = https://github.com/BaeSla/riscv-binutils.git
 	branch = custom
